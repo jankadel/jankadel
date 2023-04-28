@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jankadel
-- 👀 I’m interested in cyber security and software engineering with focus on security!
-- 🌱 I’m currently learning a lot ;)
+- Software Engineer at Adobe
 - 📫 How to reach me: https://www.linkedin.com/in/jan-k-1765a1161/
 
 <!---
