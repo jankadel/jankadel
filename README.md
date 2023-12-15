@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jankadel
-- Software Engineer at Adobe
 - 📫 How to reach me: https://www.linkedin.com/in/jan-k-1765a1161/
 
 <!---
